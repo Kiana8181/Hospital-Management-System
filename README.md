@@ -1,6 +1,6 @@
 # Hospital Management System
 
-This project is an implementation of a Hospital Management System in C++ using object-oriented principles. It is based on a general UML diagram and includes various functionalities to manage and report on hospital data.
+This project is an implementation of a Hospital Management System in C++ using object-oriented principles and file system. It is based on a general UML diagram and includes various functionalities to manage and report on hospital data.
 
 ## Table of Contents
 
