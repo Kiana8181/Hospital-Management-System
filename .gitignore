@@ -1,0 +1,67 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vscode/
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Ignore build results
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Ignore your project debug files
+Debug/Project.exe
+Debug/Project.exe.metagen
+Debug/Project.pdb
+
+# Ignore Windows image file caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+
+# Folders to ignore
+Project/Debug/
+
+# Ignore Visual Studio Code workspace and settings files
+.vscode/
+
+# Ignore project files
+Project.vcxproj.user
+
+# Ignore build results in project folder
+Project/Debug/
+
+# Ignore compiled files
+*.obj
+*.pdb
+*.ilk
+*.log
+*.lib
+*.vspscc
+*.vssscc
+*.scc
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.tlog
+*.tmp
+*.cache
+*.pch
+*.rsp
+*.manifest
+*.xml
+*.tlog
+
+# Ignore project files
+Project/Debug/
