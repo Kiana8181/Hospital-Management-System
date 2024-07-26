@@ -8,9 +8,7 @@ This project is an implementation of a Hospital Management System in C++ using o
 - [Features](#features)
 - [Class Diagram](#class-diagram)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Reports](#reports)
-- [License](#license)
 
 ## Project Description
 
